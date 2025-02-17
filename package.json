@@ -9,7 +9,8 @@
     "dist"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   },
   "repository": "https://github.com/anker-dtc-eufy/juuust-react-icon.git",
   "keywords": [
